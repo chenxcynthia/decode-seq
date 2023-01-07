@@ -16,4 +16,4 @@ Decoding Pipeline:
 
 
 B-Cell Receptor Motif Results:
-![Motifs](motifs.png)
+![Motifs](motif.png)
