@@ -1,7 +1,7 @@
 ## Decoding Neural Networks: Novel Computational Methods to Discover Anti-Tumor B-Cell Receptor Binding Motifs
 Cynthia Chen
 
-Research project conducted from 2018-2020 under the mentorship of Dr. Sherlock Hu, Dr. Collin Tokheim, Professor Shirley Liu
+Research project conducted from 2018-2020 under the mentorship of Sherlock Hu, Collin Tokheim, and Shirley Liu.
 
 [Full Research Paper](https://drive.google.com/file/d/1ncd2uYxCjTl2Qi93eE6oOBZQkUFPUoKX/view?usp=share_link).
 
